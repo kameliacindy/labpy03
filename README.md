@@ -4,7 +4,7 @@ Pada Latihan 2 ini kita akan membahas program untuk menampilkan bilangan **terbe
 
 ![enter image description here](https://github.com/kameliacindy/labpy03/blob/master/img/lat2.PNG)
 
-Penjelasan ;
+Penjelasan :
 
  - Baris 1-2 mendeklarasikan variabel **x** dan **Terbesar**.
  - Baris 3 mendeklarasikan perulangan **while not** terhadap variabel **x**, yaitu perulangan yang tak terhitung dan  dilakukan berdasarkan kondisi tertentu. Pada program ini menggunakan perulangan **while not** yang berarti perulangan yang jika diinputkan angka **0** akan berhenti.
