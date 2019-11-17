@@ -35,5 +35,28 @@ Penjelasan :
  Output yang dihasilkan :
  
  ![enter image description here](https://github.com/kameliacindy/labpy03/blob/master/img/op2.PNG)
+ 
+## Program 1
 
+Untuk program 1 ini, kita akan membahas mengenai program yang menghitung laba dan keuntungan seorang pengusaha yang menginvestasikan uangnya selama 8 bulan dengan modal awal 100 juta. Pada bulan ke-1 dan ke-2 belum mendapatkan laba (laba=0). Pada bulan ke-3 baru mulai mendapatkan laba sebesar 1% dan pada bulan ke-5 pendapatan meningkat 5%, namun pada bulan ke-8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.
+Berikut ini kode yang digunakan:
+
+![enter image description here](https://github.com/kameliacindy/labpy03/blob/master/img/program1.PNG)
+
+Penjelasan :
+
+ - Baris 1 mendeklarasikan variabel **modal** yang merupakan modal awal pengusaha tersebut sebesar 100000000 (100juta).
+ - Baris 2-3 mendeklarasikan variabel **Laba** dan **Total_laba** .
+ - Baris 4 melakukan perulangan dengan menggunakan perulangan **for** .
+ - Baris 5 mendeklarasikan kondisi **if** yang menunjukkan untuk bulan 1-2 .
+ - Baris 6-7 mendeklarasikan variabel **laba** dan **Total_laba**. Pada bulan ke-1 dan ke-2 belum mendapatkan laba, jadi laba=0.
+ - Baris 8 menampilkan hasil pada kondisi tersebut.
+ - Baris 9 mendeklarasikan kondisi **elif** untuk bulan 3-4.
+ - Baris 10 mendeklarasikan variabel **laba** dan **Total_laba**. Pada bulan ke-3 dan ke-4 mulai mendapatkan laba sebesar 1%. Untuk menghitung laba yaitu **modal * presentase laba / 100**.
+ - Melakukan perulangan sesuai dengan range pada kondisi tertentu.
+ - Baris 21 menampilkan hasil akhir yaitu **Total laba**.
+ 
+Output yang dihasilkan sebagai berikut:
+
+![enter image description here](https://github.com/kameliacindy/labpy03/blob/master/img/oplaba.PNG)
 
