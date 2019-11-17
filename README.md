@@ -34,5 +34,6 @@ Penjelasan :
  
  Output yang dihasilkan :
  
+ ![enter image description here](https://github.com/kameliacindy/labpy03/blob/master/img/op2.PNG)
 
 
